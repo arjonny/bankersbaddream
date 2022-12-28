@@ -1,13 +1,1 @@
-{
-  "status":"OK",
-  "tag":"payRequest",
-  "commentAllowed":255,
-  "callback":"https://getalby.com/lnurlp/bankersbaddream/callback",
-  "metadata":"[[\"text/identifier\", \"bankersbaddream@getalby.com\"], [\"text/plain\", \"Sats for bankersbaddream\"]]",
-  "minSendable":1000,"maxSendable":11000000000,
-  "payerData":
-    {
-      "name":{"mandatory":false},
-      "email":{"mandatory":false}
-    }
-}
+{"status":"OK","tag":"payRequest","commentAllowed":255,"callback":"https://getalby.com/lnurlp/bankersbaddream/callback","metadata":"[[\"text/identifier\", \"bankersbaddream@getalby.com\"], [\"text/plain\", \"Sats for bankersbaddream\"]]","minSendable":1000,"maxSendable":11000000000,"payerData":{"name":{"mandatory":false},"email":{"mandatory":false}}}
